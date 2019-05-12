@@ -1,4 +1,4 @@
-# painel-Admin
+# Painel Admin
 
 Painel administrativo criado utilizando bootstrap4.
 
